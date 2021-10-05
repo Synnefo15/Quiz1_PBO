@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("M.Rafi Cahyaputra/192410101029");
-        System.out.println("=====Start=====");
+        System.out.println("=====Start ok=====");
 
         // * membuat objek peternak
         Peternak peternak1 = new Peternak("rafi", 19, "pria", 10);

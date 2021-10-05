@@ -163,7 +163,7 @@ public class App {
                     System.out.println("Pilih menu pada Pembeli :");
                     System.out.println("1.\tDisplay");
                     System.out.println("2.\tBeli ke peternak");
-                    System.out.println("3.\tWaktu Kerjaa");
+                    System.out.println("3.\tWaktu Kerja");
                     System.out.print("\n\nPilihan anda: ");
                     String menuPenjual = terminalInput.next();
                     switch (menuPenjual) {

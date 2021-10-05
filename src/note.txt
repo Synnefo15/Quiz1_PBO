@@ -1,0 +1,78 @@
+======Requirement====
+* 4 objek (ok)
+* min 3 atribut
+* min method 3, selain setter getter
+* nested class
+
+=====================
+
+===class peternak : 
+    atribut :   (Lengkap)
+                -nama
+                -usia
+                -kelamin
+                -lama ternak
+    
+    method  :   
+                >setHewan = ok
+                >set get = ok
+                -display = ok
+                -menjualHewan = ok
+                -keuntungan =ok
+                -hitungLaba = ok
+                
+                =========
+                
+                
+
+===class hewan      :
+    atribut :   (Lengkap)
+                -nama
+                -jenis
+                -panjang
+                -berat
+                -harga
+                -terjual
+    
+    method  :   
+                >setget = ok
+                -display = ok
+                -makan = ok
+                -bergerak
+                -menu makanan = ok
+                -daftar menu =ok 
+
+===class penjual    :
+    atribut :   (Lengkap)
+                -nama
+                -usia
+                -kelamin
+                -lama berjualan 
+    
+    method  :   
+                -display = ok
+                >set get = ok
+                -membeli dari peternak = ok
+                -waktu berjualan = ok
+
+===class pembeli    :
+    atribut :   (Lengkap)
+                -nama
+                -usia
+                -kelamin
+                -uang
+
+    method  :   
+                -display =ok
+                >setGet = ok
+                -membeli = ok
+                -
+
+
+Penjelasan :
+
+1)Jelaskan ringkasan sistem : class, hubungannya, instansisasi
+
+2)Jelaskan Setiap kelas : atribut, konstruktor, method
+
+3)Jalankan program di main menu
